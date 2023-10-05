@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a target="blank" src="https://www.zhihu.com/people/yyz-92-20"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/zhihu.svg" height="30" width="40" /></a>
-<a target="blank" src="https://twitter.com/yyz72189632"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"  height="30" width="40" /></a>
+<a target="blank" href="https://www.zhihu.com/people/yyz-92-20"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/zhihu.svg" height="30" width="40" /></a>
+<a target="blank" href="https://twitter.com/yyz72189632"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"  height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
