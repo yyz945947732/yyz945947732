@@ -6,7 +6,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yyz945947732&theme=flat" alt="yyz945947732" /></a> </p>
 
 - 🔭 I’m currently working on writing songs and [Nue Language Support](https://github.com/yyz945947732/vscode-nue).
-- 🌱 I’m currently learning **VSCode**.
+- 🌱 I’m currently learning **Volar.js**.
 - 💬 Ask me about **React**，**Typescript**.
 - 📫 How to reach me 945947732@qq.com.
 - ⚡ Fun fact: Getting up early is extremely difficult for me.
@@ -23,7 +23,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="typescript" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
 </p>
 
