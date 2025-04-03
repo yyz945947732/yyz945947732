@@ -1,6 +1,6 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=yyz945947732&label=Profile%20views&color=0e75b6&style=flat" alt="yyz945947732" /> </p>
 
-<h1 align="center">Hi 👋, I'm Yoga</h1>
+<h1 align="center">Hi 👋, I'm Khalil</h1>
 <h3 align="center">A singer and developer</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yyz945947732&theme=flat" alt="yyz945947732" /></a> </p>
@@ -8,13 +8,6 @@
 - 💬 Ask me about **React**，**Typescript**.
 - 📫 How to reach me 945947732@qq.com.
 - ⚡ Fun fact: Getting up early is extremely difficult for me.
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a target="blank" href="https://www.zhihu.com/people/yyz-92-20"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/zhihu.svg" height="30" width="40" /></a>
-<a target="blank" href="https://juejin.cn/user/2242659453005336"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/juejin.svg" height="30" width="40" /></a>
-<a target="blank" href="https://twitter.com/yyz72189632"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg"  height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
